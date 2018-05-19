@@ -1,0 +1,699 @@
+[5420:5424:0516/200643.692:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5420:5424:0516/200643.694:VERBOSE1:crash_service.cc(143)] window handle is 00000000000502FC
+[5420:5424:0516/200643.695:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5420:5424:0516/200643.695:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5420:5424:0516/200643.695:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[5420:5432:0516/200643.702:VERBOSE1:crash_service.cc(322)] client start. pid = 5156
+[5420:5432:0516/200643.728:VERBOSE1:crash_service.cc(322)] client start. pid = 4620
+[5440:5444:0516/200643.757:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5440:5444:0516/200643.763:VERBOSE1:crash_service.cc(143)] window handle is 00000000002A02B4
+[5440:5444:0516/200643.763:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5440:5444:0516/200643.763:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5440:5444:0516/200643.763:ERROR:crash_service.cc(300)] could not start dumper
+[5420:5892:0516/200748.574:VERBOSE1:crash_service.cc(330)] client end. pid = 5156
+[5420:5892:0516/200749.524:VERBOSE1:crash_service.cc(330)] client end. pid = 4620
+[5420:5892:0516/200750.524:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[5420:5424:0516/200750.524:VERBOSE1:crash_service.cc(510)] session ending..
+[5420:5424:0516/200750.524:VERBOSE1:crash_service.cc(515)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[5420:5424:0516/200750.524:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[6044:6028:0516/200801.689:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[6044:6028:0516/200801.692:VERBOSE1:crash_service.cc(143)] window handle is 0000000000160228
+[6044:6028:0516/200801.692:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[6044:6028:0516/200801.692:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[6044:6028:0516/200801.692:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[6044:5536:0516/200801.692:VERBOSE1:crash_service.cc(322)] client start. pid = 476
+[6044:5536:0516/200801.719:VERBOSE1:crash_service.cc(322)] client start. pid = 692
+[5656:5044:0516/200801.742:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5656:5044:0516/200801.745:VERBOSE1:crash_service.cc(143)] window handle is 00000000000404A6
+[5656:5044:0516/200801.745:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5656:5044:0516/200801.745:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5656:5044:0516/200801.745:ERROR:crash_service.cc(300)] could not start dumper
+[6044:1220:0516/200837.895:VERBOSE1:crash_service.cc(330)] client end. pid = 476
+[6044:5536:0516/200839.972:VERBOSE1:crash_service.cc(322)] client start. pid = 4132
+[6044:5536:0516/200839.988:VERBOSE1:crash_service.cc(322)] client start. pid = 692
+[3964:4336:0516/200839.997:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[3964:4336:0516/200840.004:VERBOSE1:crash_service.cc(143)] window handle is 00000000002003A0
+[3964:4336:0516/200840.004:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[3964:4336:0516/200840.004:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[3964:4336:0516/200840.004:ERROR:crash_service.cc(300)] could not start dumper
+[5112:2716:0516/200840.014:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5112:2716:0516/200840.016:VERBOSE1:crash_service.cc(143)] window handle is 00000000000704B4
+[5112:2716:0516/200840.016:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5112:2716:0516/200840.017:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5112:2716:0516/200840.017:ERROR:crash_service.cc(300)] could not start dumper
+[6044:6056:0516/202312.342:VERBOSE1:crash_service.cc(330)] client end. pid = 4132
+[6044:6056:0516/202313.007:VERBOSE1:crash_service.cc(330)] client end. pid = 692
+[6044:4832:0516/202313.012:VERBOSE1:crash_service.cc(330)] client end. pid = 692
+[6044:4832:0516/202314.012:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[6044:6028:0516/202314.012:VERBOSE1:crash_service.cc(510)] session ending..
+[6044:6028:0516/202314.012:VERBOSE1:crash_service.cc(515)] clients connected :4
+clients terminated :4
+dumps serviced :0
+dumps reported :0
+[6044:6028:0516/202314.012:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[4176:4336:0516/202320.357:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[4176:4336:0516/202320.360:VERBOSE1:crash_service.cc(143)] window handle is 00000000000703E8
+[4176:4336:0516/202320.361:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[4176:4336:0516/202320.361:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4176:4336:0516/202320.361:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[4176:5076:0516/202320.395:VERBOSE1:crash_service.cc(322)] client start. pid = 5148
+[4176:5076:0516/202320.407:VERBOSE1:crash_service.cc(322)] client start. pid = 3704
+[720:5608:0516/202320.443:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[720:5608:0516/202320.500:VERBOSE1:crash_service.cc(143)] window handle is 00000000000702FE
+[720:5608:0516/202320.500:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[720:5608:0516/202320.500:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[720:5608:0516/202320.501:ERROR:crash_service.cc(300)] could not start dumper
+[4176:5276:0516/202507.781:VERBOSE1:crash_service.cc(330)] client end. pid = 5148
+[4176:5276:0516/202508.446:VERBOSE1:crash_service.cc(330)] client end. pid = 3704
+[4176:5276:0516/202509.446:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[4176:4336:0516/202509.446:VERBOSE1:crash_service.cc(510)] session ending..
+[4176:4336:0516/202509.496:VERBOSE1:crash_service.cc(515)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[4176:4336:0516/202509.496:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[5284:4872:0516/202513.414:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5284:4872:0516/202513.421:VERBOSE1:crash_service.cc(143)] window handle is 00000000000804E2
+[5284:4872:0516/202513.421:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5284:4872:0516/202513.421:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5284:4872:0516/202513.422:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[5284:5008:0516/202513.483:VERBOSE1:crash_service.cc(322)] client start. pid = 2508
+[5284:5008:0516/202513.483:VERBOSE1:crash_service.cc(322)] client start. pid = 1080
+[6060:836:0516/202513.494:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[6060:836:0516/202513.521:VERBOSE1:crash_service.cc(143)] window handle is 00000000000902FE
+[6060:836:0516/202513.521:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[6060:836:0516/202513.521:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[6060:836:0516/202513.521:ERROR:crash_service.cc(300)] could not start dumper
+[5284:5544:0516/204025.181:VERBOSE1:crash_service.cc(330)] client end. pid = 2508
+[5284:5008:0516/204027.279:VERBOSE1:crash_service.cc(322)] client start. pid = 5820
+[5284:5008:0516/204027.297:VERBOSE1:crash_service.cc(322)] client start. pid = 1080
+[4164:5072:0516/204027.302:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[4164:5072:0516/204027.304:VERBOSE1:crash_service.cc(143)] window handle is 00000000000B02FE
+[4164:5072:0516/204027.304:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[4164:5072:0516/204027.304:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4164:5072:0516/204027.304:ERROR:crash_service.cc(300)] could not start dumper
+[6008:5156:0516/204027.320:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[6008:5156:0516/204027.322:VERBOSE1:crash_service.cc(143)] window handle is 00000000000604DC
+[6008:5156:0516/204027.322:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[6008:5156:0516/204027.322:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[6008:5156:0516/204027.323:ERROR:crash_service.cc(300)] could not start dumper
+[5284:5544:0516/204117.263:VERBOSE1:crash_service.cc(330)] client end. pid = 5820
+[5284:5008:0516/204119.316:VERBOSE1:crash_service.cc(322)] client start. pid = 3656
+[5284:5008:0516/204119.326:VERBOSE1:crash_service.cc(322)] client start. pid = 1080
+[3416:3580:0516/204119.337:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[3416:3580:0516/204119.339:VERBOSE1:crash_service.cc(143)] window handle is 00000000000804DC
+[3416:3580:0516/204119.340:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[3416:3580:0516/204119.340:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[3416:3580:0516/204119.340:ERROR:crash_service.cc(300)] could not start dumper
+[5324:2732:0516/204119.356:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5324:2732:0516/204119.368:VERBOSE1:crash_service.cc(143)] window handle is 00000000000A0312
+[5324:2732:0516/204119.368:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5324:2732:0516/204119.368:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5324:2732:0516/204119.369:ERROR:crash_service.cc(300)] could not start dumper
+[5284:5544:0516/204133.291:VERBOSE1:crash_service.cc(330)] client end. pid = 3656
+[5284:5008:0516/204135.364:VERBOSE1:crash_service.cc(322)] client start. pid = 1728
+[5284:5008:0516/204135.373:VERBOSE1:crash_service.cc(322)] client start. pid = 1080
+[3944:5364:0516/204135.383:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[3944:5364:0516/204135.385:VERBOSE1:crash_service.cc(143)] window handle is 00000000000A04DC
+[3944:5364:0516/204135.385:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[3944:5364:0516/204135.385:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[3944:5364:0516/204135.385:ERROR:crash_service.cc(300)] could not start dumper
+[4232:5948:0516/204135.401:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[4232:5948:0516/204135.404:VERBOSE1:crash_service.cc(143)] window handle is 00000000001203A4
+[4232:5948:0516/204135.404:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[4232:5948:0516/204135.405:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4232:5948:0516/204135.405:ERROR:crash_service.cc(300)] could not start dumper
+[5284:5328:0516/204300.911:VERBOSE1:crash_service.cc(330)] client end. pid = 1728
+[5284:5008:0516/204302.870:VERBOSE1:crash_service.cc(322)] client start. pid = 5644
+[5284:5008:0516/204302.886:VERBOSE1:crash_service.cc(322)] client start. pid = 1080
+[1240:5464:0516/204302.895:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[1240:5464:0516/204302.904:VERBOSE1:crash_service.cc(143)] window handle is 00000000000C04DC
+[1240:5464:0516/204302.904:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[1240:5464:0516/204302.904:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[1240:5464:0516/204302.904:ERROR:crash_service.cc(300)] could not start dumper
+[4052:4620:0516/204302.905:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[4052:4620:0516/204302.908:VERBOSE1:crash_service.cc(143)] window handle is 00000000000D0312
+[4052:4620:0516/204302.908:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[4052:4620:0516/204302.909:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4052:4620:0516/204302.909:ERROR:crash_service.cc(300)] could not start dumper
+[5284:1904:0516/204730.078:VERBOSE1:crash_service.cc(330)] client end. pid = 5644
+[5284:5008:0516/204733.712:VERBOSE1:crash_service.cc(322)] client start. pid = 5688
+[5284:5008:0516/204733.732:VERBOSE1:crash_service.cc(322)] client start. pid = 1080
+[5208:1648:0516/204733.759:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5208:1648:0516/204733.767:VERBOSE1:crash_service.cc(143)] window handle is 00000000001302FE
+[5208:1648:0516/204733.767:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5208:1648:0516/204733.767:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5208:1648:0516/204733.767:ERROR:crash_service.cc(300)] could not start dumper
+[4972:5176:0516/204733.771:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[4972:5176:0516/204733.774:VERBOSE1:crash_service.cc(143)] window handle is 00000000000E04DC
+[4972:5176:0516/204733.774:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[4972:5176:0516/204733.774:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4972:5176:0516/204733.774:ERROR:crash_service.cc(300)] could not start dumper
+[5284:3632:0516/210007.155:VERBOSE1:crash_service.cc(330)] client end. pid = 5688
+[5284:5008:0516/210010.727:VERBOSE1:crash_service.cc(322)] client start. pid = 1696
+[5284:5008:0516/210010.749:VERBOSE1:crash_service.cc(322)] client start. pid = 1080
+[4296:4264:0516/210010.760:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[924:4768:0516/210010.774:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[924:4768:0516/210010.784:VERBOSE1:crash_service.cc(143)] window handle is 00000000001C03A4
+[924:4768:0516/210010.784:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[924:4768:0516/210010.784:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[924:4768:0516/210010.787:ERROR:crash_service.cc(300)] could not start dumper
+[4296:4264:0516/210010.794:VERBOSE1:crash_service.cc(143)] window handle is 00000000001702FE
+[4296:4264:0516/210010.794:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[4296:4264:0516/210010.794:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4296:4264:0516/210010.795:ERROR:crash_service.cc(300)] could not start dumper
+[5284:5272:0516/210204.826:VERBOSE1:crash_service.cc(330)] client end. pid = 1696
+[5284:5008:0516/210207.058:VERBOSE1:crash_service.cc(322)] client start. pid = 4156
+[5284:5008:0516/210207.078:VERBOSE1:crash_service.cc(322)] client start. pid = 1080
+[5304:5976:0516/210207.102:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5820:2044:0516/210207.101:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5304:5976:0516/210207.124:VERBOSE1:crash_service.cc(143)] window handle is 00000000002304A4
+[5304:5976:0516/210207.124:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5304:5976:0516/210207.124:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5304:5976:0516/210207.125:ERROR:crash_service.cc(300)] could not start dumper
+[5820:2044:0516/210207.129:VERBOSE1:crash_service.cc(143)] window handle is 00000000003003FE
+[5820:2044:0516/210207.132:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5820:2044:0516/210207.132:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5820:2044:0516/210207.132:ERROR:crash_service.cc(300)] could not start dumper
+[5284:4552:0516/210613.397:VERBOSE1:crash_service.cc(330)] client end. pid = 4156
+[5284:5008:0516/210615.718:VERBOSE1:crash_service.cc(322)] client start. pid = 6044
+[5284:5008:0516/210615.743:VERBOSE1:crash_service.cc(322)] client start. pid = 1080
+[864:3908:0516/210615.767:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[720:5272:0516/210615.765:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[720:5272:0516/210615.783:VERBOSE1:crash_service.cc(143)] window handle is 00000000001B02FE
+[720:5272:0516/210615.796:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[720:5272:0516/210615.796:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[720:5272:0516/210615.797:ERROR:crash_service.cc(300)] could not start dumper
+[864:3908:0516/210615.864:VERBOSE1:crash_service.cc(143)] window handle is 00000000002A0192
+[864:3908:0516/210615.865:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[864:3908:0516/210615.865:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[864:3908:0516/210615.865:ERROR:crash_service.cc(300)] could not start dumper
+[5284:3104:0516/223638.705:VERBOSE1:crash_service.cc(330)] client end. pid = 6044
+[5284:3104:0516/223643.803:VERBOSE1:crash_service.cc(330)] client end. pid = 1080
+[5284:3104:0516/223643.803:VERBOSE1:crash_service.cc(330)] client end. pid = 1080
+[5284:3104:0516/223643.803:VERBOSE1:crash_service.cc(330)] client end. pid = 1080
+[5284:3104:0516/223643.803:VERBOSE1:crash_service.cc(330)] client end. pid = 1080
+[5284:3104:0516/223643.803:VERBOSE1:crash_service.cc(330)] client end. pid = 1080
+[5284:5004:0516/223643.803:VERBOSE1:crash_service.cc(330)] client end. pid = 1080
+[5284:3104:0516/223643.803:VERBOSE1:crash_service.cc(330)] client end. pid = 1080
+[5284:5004:0516/223643.803:VERBOSE1:crash_service.cc(330)] client end. pid = 1080
+[5284:6348:0516/223643.803:VERBOSE1:crash_service.cc(330)] client end. pid = 1080
+[5284:6348:0516/223644.803:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[5284:4872:0516/223644.803:VERBOSE1:crash_service.cc(510)] session ending..
+[5284:4872:0516/223644.833:VERBOSE1:crash_service.cc(515)] clients connected :18
+clients terminated :18
+dumps serviced :0
+dumps reported :0
+[5284:4872:0516/223644.833:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[5312:5904:0516/224057.227:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5312:5904:0516/224057.229:VERBOSE1:crash_service.cc(143)] window handle is 00000000001202F4
+[5312:5904:0516/224057.229:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5312:5904:0516/224057.229:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5312:5904:0516/224057.229:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[5312:5008:0516/224057.230:VERBOSE1:crash_service.cc(322)] client start. pid = 476
+[5312:5008:0516/224057.259:VERBOSE1:crash_service.cc(322)] client start. pid = 3588
+[3104:5004:0516/224057.282:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[3104:5004:0516/224057.286:VERBOSE1:crash_service.cc(143)] window handle is 00000000001E01F6
+[3104:5004:0516/224057.286:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[3104:5004:0516/224057.286:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[3104:5004:0516/224057.287:ERROR:crash_service.cc(300)] could not start dumper
+[5312:6804:0516/224121.773:VERBOSE1:crash_service.cc(330)] client end. pid = 476
+[5312:5008:0516/224123.788:VERBOSE1:crash_service.cc(322)] client start. pid = 6848
+[5312:5008:0516/224123.822:VERBOSE1:crash_service.cc(322)] client start. pid = 3588
+[7016:4576:0516/224123.828:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[7016:4576:0516/224123.860:VERBOSE1:crash_service.cc(143)] window handle is 00000000003C03FE
+[7016:4576:0516/224123.860:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[7016:4576:0516/224123.860:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[7016:4576:0516/224123.860:ERROR:crash_service.cc(300)] could not start dumper
+[6100:7008:0516/224123.865:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[6100:7008:0516/224123.867:VERBOSE1:crash_service.cc(143)] window handle is 00000000001B0266
+[6100:7008:0516/224123.868:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[6100:7008:0516/224123.868:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[6100:7008:0516/224123.868:ERROR:crash_service.cc(300)] could not start dumper
+[5312:6532:0516/225407.444:VERBOSE1:crash_service.cc(330)] client end. pid = 6848
+[5312:6532:0516/225408.295:VERBOSE1:crash_service.cc(330)] client end. pid = 3588
+[5312:5928:0516/225408.295:VERBOSE1:crash_service.cc(330)] client end. pid = 3588
+[5312:5928:0516/225409.295:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[5312:5904:0516/225409.295:VERBOSE1:crash_service.cc(510)] session ending..
+[5312:5904:0516/225409.295:VERBOSE1:crash_service.cc(515)] clients connected :4
+clients terminated :4
+dumps serviced :0
+dumps reported :0
+[5312:5904:0516/225409.295:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[4172:2260:0516/225413.672:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[4172:2260:0516/225413.674:VERBOSE1:crash_service.cc(143)] window handle is 00000000000E027C
+[4172:2260:0516/225413.674:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[4172:2260:0516/225413.674:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4172:2260:0516/225413.674:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[4172:1352:0516/225413.675:VERBOSE1:crash_service.cc(322)] client start. pid = 6352
+[4172:1352:0516/225413.691:VERBOSE1:crash_service.cc(322)] client start. pid = 5220
+[6952:6236:0516/225413.714:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[6952:6236:0516/225413.717:VERBOSE1:crash_service.cc(143)] window handle is 0000000000230056
+[6952:6236:0516/225413.717:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[6952:6236:0516/225413.718:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[6952:6236:0516/225413.718:ERROR:crash_service.cc(300)] could not start dumper
+[4172:5480:0517/005647.512:VERBOSE1:crash_service.cc(330)] client end. pid = 6352
+[4172:5480:0517/005651.452:VERBOSE1:crash_service.cc(330)] client end. pid = 5220
+[4172:5480:0517/005652.454:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[4172:2260:0517/005652.469:VERBOSE1:crash_service.cc(510)] session ending..
+[4172:2260:0517/005652.469:VERBOSE1:crash_service.cc(515)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[4172:2260:0517/005652.469:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[6064:5248:0517/010334.011:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[6064:5248:0517/010334.014:VERBOSE1:crash_service.cc(143)] window handle is 00000000001502C6
+[6064:5248:0517/010334.014:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[6064:5248:0517/010334.014:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[6064:5248:0517/010334.014:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[6064:4560:0517/010334.015:VERBOSE1:crash_service.cc(322)] client start. pid = 6172
+[6064:4560:0517/010334.078:VERBOSE1:crash_service.cc(322)] client start. pid = 1612
+[5664:4940:0517/010334.109:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5664:4940:0517/010334.117:VERBOSE1:crash_service.cc(143)] window handle is 00000000002302E2
+[5664:4940:0517/010334.117:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5664:4940:0517/010334.117:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5664:4940:0517/010334.118:ERROR:crash_service.cc(300)] could not start dumper
+[6064:5860:0517/010621.916:VERBOSE1:crash_service.cc(330)] client end. pid = 6172
+[6064:5860:0517/010622.916:VERBOSE1:crash_service.cc(330)] client end. pid = 1612
+[6064:5860:0517/010623.916:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[6064:5248:0517/010623.916:VERBOSE1:crash_service.cc(510)] session ending..
+[6064:5248:0517/010623.916:VERBOSE1:crash_service.cc(515)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[6064:5248:0517/010623.916:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[4932:5412:0517/010745.077:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[4932:5412:0517/010745.079:VERBOSE1:crash_service.cc(143)] window handle is 00000000000F0300
+[4932:5412:0517/010745.079:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[4932:5412:0517/010745.079:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4932:5412:0517/010745.079:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[4932:6560:0517/010745.104:VERBOSE1:crash_service.cc(322)] client start. pid = 6240
+[5892:5264:0517/010745.136:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[4932:6560:0517/010745.136:VERBOSE1:crash_service.cc(322)] client start. pid = 6028
+[5892:5264:0517/010745.145:VERBOSE1:crash_service.cc(143)] window handle is 00000000001804E8
+[5892:5264:0517/010745.145:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5892:5264:0517/010745.145:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5892:5264:0517/010745.145:ERROR:crash_service.cc(300)] could not start dumper
+[4932:5076:0517/011227.198:VERBOSE1:crash_service.cc(330)] client end. pid = 6240
+[4932:5076:0517/011228.057:VERBOSE1:crash_service.cc(330)] client end. pid = 6028
+[4932:5076:0517/011229.057:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[4932:5412:0517/011229.057:VERBOSE1:crash_service.cc(510)] session ending..
+[4932:5412:0517/011229.057:VERBOSE1:crash_service.cc(515)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[4932:5412:0517/011229.057:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[3488:3800:0517/011234.330:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[3488:3800:0517/011234.332:VERBOSE1:crash_service.cc(143)] window handle is 00000000001A04E8
+[3488:3800:0517/011234.332:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[3488:3800:0517/011234.332:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[3488:3800:0517/011234.332:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[3488:7008:0517/011234.332:VERBOSE1:crash_service.cc(322)] client start. pid = 5012
+[3488:7008:0517/011234.355:VERBOSE1:crash_service.cc(322)] client start. pid = 6652
+[7092:6264:0517/011234.377:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[7092:6264:0517/011234.384:VERBOSE1:crash_service.cc(143)] window handle is 0000000000110302
+[7092:6264:0517/011234.384:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[7092:6264:0517/011234.384:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[7092:6264:0517/011234.384:ERROR:crash_service.cc(300)] could not start dumper
+[3488:5216:0517/011646.346:VERBOSE1:crash_service.cc(330)] client end. pid = 5012
+[3488:5216:0517/011647.440:VERBOSE1:crash_service.cc(330)] client end. pid = 6652
+[3488:5216:0517/011648.440:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[3488:3800:0517/011648.440:VERBOSE1:crash_service.cc(510)] session ending..
+[3488:3800:0517/011648.440:VERBOSE1:crash_service.cc(515)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[3488:3800:0517/011648.440:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[6704:5732:0517/015530.332:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[6704:5732:0517/015530.334:VERBOSE1:crash_service.cc(143)] window handle is 00000000001D03D0
+[6704:5732:0517/015530.334:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[6704:5732:0517/015530.334:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[6704:5732:0517/015530.334:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[6704:5736:0517/015530.335:VERBOSE1:crash_service.cc(322)] client start. pid = 6936
+[6704:5736:0517/015530.351:VERBOSE1:crash_service.cc(322)] client start. pid = 6844
+[5212:6092:0517/015530.370:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5212:6092:0517/015530.373:VERBOSE1:crash_service.cc(143)] window handle is 00000000000802F8
+[5212:6092:0517/015530.373:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5212:6092:0517/015530.373:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5212:6092:0517/015530.373:ERROR:crash_service.cc(300)] could not start dumper
+[6704:2856:0517/030530.406:VERBOSE1:crash_service.cc(330)] client end. pid = 6936
+[6704:2856:0517/030532.503:VERBOSE1:crash_service.cc(330)] client end. pid = 6844
+[6704:2856:0517/030533.517:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[6704:5732:0517/030533.517:VERBOSE1:crash_service.cc(510)] session ending..
+[6704:5732:0517/030533.517:VERBOSE1:crash_service.cc(515)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[6704:5732:0517/030533.517:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[1892:2096:0517/134751.042:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[1892:2096:0517/134751.064:VERBOSE1:crash_service.cc(143)] window handle is 00000000000302DC
+[1892:2096:0517/134751.064:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[1892:2096:0517/134751.064:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[1892:2096:0517/134751.065:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[1892:1340:0517/134751.065:VERBOSE1:crash_service.cc(322)] client start. pid = 4252
+[1892:1340:0517/134751.095:VERBOSE1:crash_service.cc(322)] client start. pid = 1856
+[4576:3440:0517/134751.114:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[4576:3440:0517/134751.116:VERBOSE1:crash_service.cc(143)] window handle is 00000000000202E0
+[4576:3440:0517/134751.116:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[4576:3440:0517/134751.116:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4576:3440:0517/134751.116:ERROR:crash_service.cc(300)] could not start dumper
+[1892:5308:0517/134807.671:VERBOSE1:crash_service.cc(330)] client end. pid = 4252
+[1892:1340:0517/134808.643:VERBOSE1:crash_service.cc(322)] client start. pid = 5204
+[1892:1340:0517/134808.653:VERBOSE1:crash_service.cc(322)] client start. pid = 1856
+[5328:5332:0517/134808.663:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5328:5332:0517/134808.664:VERBOSE1:crash_service.cc(143)] window handle is 00000000000202D4
+[5328:5332:0517/134808.664:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5328:5332:0517/134808.665:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5328:5332:0517/134808.665:ERROR:crash_service.cc(300)] could not start dumper
+[5336:5340:0517/134808.673:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5336:5340:0517/134808.674:VERBOSE1:crash_service.cc(143)] window handle is 00000000000202E6
+[5336:5340:0517/134808.675:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5336:5340:0517/134808.675:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5336:5340:0517/134808.675:ERROR:crash_service.cc(300)] could not start dumper
+[1892:7048:0517/205714.656:VERBOSE1:crash_service.cc(330)] client end. pid = 5204
+[1892:7048:0517/205725.491:VERBOSE1:crash_service.cc(330)] client end. pid = 1856
+[1892:6964:0517/205725.491:VERBOSE1:crash_service.cc(330)] client end. pid = 1856
+[1892:6964:0517/205726.501:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[1892:2096:0517/205726.501:VERBOSE1:crash_service.cc(510)] session ending..
+[1892:2096:0517/205726.511:VERBOSE1:crash_service.cc(515)] clients connected :4
+clients terminated :4
+dumps serviced :0
+dumps reported :0
+[1892:2096:0517/205726.511:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[5164:3468:0518/192512.601:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5164:3468:0518/192512.676:VERBOSE1:crash_service.cc(143)] window handle is 0000000000010300
+[5164:3468:0518/192512.676:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5164:3468:0518/192512.676:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5164:3468:0518/192512.676:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[5164:4272:0518/192512.676:VERBOSE1:crash_service.cc(322)] client start. pid = 228
+[5164:4272:0518/192512.781:VERBOSE1:crash_service.cc(322)] client start. pid = 6060
+[1636:3512:0518/192512.797:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[1636:3512:0518/192512.802:VERBOSE1:crash_service.cc(143)] window handle is 0000000000010304
+[1636:3512:0518/192512.802:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[1636:3512:0518/192512.802:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[1636:3512:0518/192512.802:ERROR:crash_service.cc(300)] could not start dumper
+[5164:5260:0518/231934.154:VERBOSE1:crash_service.cc(330)] client end. pid = 228
+[5164:4272:0518/231937.248:VERBOSE1:crash_service.cc(322)] client start. pid = 6792
+[5164:4272:0518/231937.264:VERBOSE1:crash_service.cc(322)] client start. pid = 6060
+[424:3092:0518/231937.277:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[1736:3044:0518/231937.359:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[424:3092:0518/231937.362:VERBOSE1:crash_service.cc(143)] window handle is 00000000000402D0
+[424:3092:0518/231937.362:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[424:3092:0518/231937.362:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[424:3092:0518/231937.363:ERROR:crash_service.cc(300)] could not start dumper
+[1736:3044:0518/231937.363:VERBOSE1:crash_service.cc(143)] window handle is 000000000015019C
+[1736:3044:0518/231937.363:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[1736:3044:0518/231937.363:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[1736:3044:0518/231937.363:ERROR:crash_service.cc(300)] could not start dumper
+[5164:5316:0518/233650.532:VERBOSE1:crash_service.cc(330)] client end. pid = 6792
+[5164:5316:0518/233652.499:VERBOSE1:crash_service.cc(330)] client end. pid = 6060
+[5164:6228:0518/233652.499:VERBOSE1:crash_service.cc(330)] client end. pid = 6060
+[5164:6228:0518/233653.524:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[5164:3468:0518/233653.529:VERBOSE1:crash_service.cc(510)] session ending..
+[5164:3468:0518/233653.539:VERBOSE1:crash_service.cc(515)] clients connected :4
+clients terminated :4
+dumps serviced :0
+dumps reported :0
+[5164:3468:0518/233653.539:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[6652:1348:0518/233659.277:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[6652:1348:0518/233659.278:VERBOSE1:crash_service.cc(143)] window handle is 00000000000602CC
+[6652:1348:0518/233659.278:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[6652:1348:0518/233659.278:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[6652:1348:0518/233659.279:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[6652:5592:0518/233659.279:VERBOSE1:crash_service.cc(322)] client start. pid = 5940
+[6652:5592:0518/233659.371:VERBOSE1:crash_service.cc(322)] client start. pid = 4968
+[4284:1980:0518/233659.389:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[4284:1980:0518/233659.391:VERBOSE1:crash_service.cc(143)] window handle is 00000000007602E2
+[4284:1980:0518/233659.391:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[4284:1980:0518/233659.391:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4284:1980:0518/233659.392:ERROR:crash_service.cc(300)] could not start dumper
+[6652:7020:0519/014125.575:VERBOSE1:crash_service.cc(330)] client end. pid = 5940
+[6652:7020:0519/014127.439:VERBOSE1:crash_service.cc(330)] client end. pid = 4968
+[6652:7020:0519/014128.439:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[6652:1348:0519/014128.439:VERBOSE1:crash_service.cc(510)] session ending..
+[6652:1348:0519/014128.439:VERBOSE1:crash_service.cc(515)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[6652:1348:0519/014128.439:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[5328:2332:0519/020139.703:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5328:2332:0519/020139.705:VERBOSE1:crash_service.cc(143)] window handle is 00000000000502AC
+[5328:2332:0519/020139.705:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5328:2332:0519/020139.705:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5328:2332:0519/020139.705:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[5328:6980:0519/020139.707:VERBOSE1:crash_service.cc(322)] client start. pid = 5680
+[5328:6980:0519/020139.710:VERBOSE1:crash_service.cc(322)] client start. pid = 1172
+[4704:6112:0519/020139.740:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[4704:6112:0519/020139.740:VERBOSE1:crash_service.cc(143)] window handle is 0000000000030302
+[4704:6112:0519/020139.740:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[4704:6112:0519/020139.740:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[4704:6112:0519/020139.740:ERROR:crash_service.cc(300)] could not start dumper
+[5328:4356:0519/021154.734:VERBOSE1:crash_service.cc(330)] client end. pid = 5680
+[5328:4356:0519/021156.514:VERBOSE1:crash_service.cc(330)] client end. pid = 1172
+[5328:4356:0519/021157.528:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[5328:2332:0519/021157.528:VERBOSE1:crash_service.cc(510)] session ending..
+[5328:2332:0519/021157.528:VERBOSE1:crash_service.cc(515)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[5328:2332:0519/021157.528:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[3580:3428:0519/130935.860:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[3580:3428:0519/130935.886:VERBOSE1:crash_service.cc(143)] window handle is 0000000000180270
+[3580:3428:0519/130935.886:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[3580:3428:0519/130935.886:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[3580:3428:0519/130935.887:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[3580:3928:0519/130935.887:VERBOSE1:crash_service.cc(322)] client start. pid = 1856
+[3580:3928:0519/130935.920:VERBOSE1:crash_service.cc(322)] client start. pid = 736
+[5052:3780:0519/130935.985:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload --application-name=VSCode "--crashes-directory=C:\Users\PC\AppData\Local\Temp\VSCode Crashes" --v=1]
+[5052:3780:0519/130935.987:VERBOSE1:crash_service.cc(143)] window handle is 00000000000D024A
+[5052:3780:0519/130935.987:VERBOSE1:crash_service.cc(289)] pipe name is \\.\pipe\VSCode Crash Service
+dumps at C:\Users\PC\AppData\Local\Temp\VSCode Crashes
+[5052:3780:0519/130935.987:VERBOSE1:crash_service.cc(293)] checkpoint is C:\Users\PC\AppData\Local\Temp\VSCode Crashes\crash_checkpoint.txt
+server is https://rink.hockeyapp.net/api/2/apps/0ac07349c6e34e978fdfb42074932f22/crashes/upload
+maximum 128 reports/day
+reporter is electron-crash-service
+[5052:3780:0519/130935.987:ERROR:crash_service.cc(300)] could not start dumper
+[3580:5460:0519/204610.479:VERBOSE1:crash_service.cc(330)] client end. pid = 1856
+[3580:5460:0519/204613.054:VERBOSE1:crash_service.cc(330)] client end. pid = 736
+[3580:5460:0519/204614.079:VERBOSE1:crash_service.cc(351)] zero clients. exiting
+[3580:3428:0519/204614.109:VERBOSE1:crash_service.cc(510)] session ending..
+[3580:3428:0519/204614.124:VERBOSE1:crash_service.cc(515)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[3580:3428:0519/204614.124:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
